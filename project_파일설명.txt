@@ -1,0 +1,32 @@
+apart16. apart17, apart18, apart19 -> 원본 데이터
+
+
+gudong16, gudong17, gudong18, gudong19 -> 기간, 구, 동, 계약면적, 계약년월, 거래금액(만원)
+
+
+gudong16_df, gudong17_df, gudong18_df, gudong19_df -> 기간, 구, 동 계약면적, 계약년월, 거래금액(만원)
+                                                                                                                                                                 object-> 숫자 [데이터타입 변환]
+
+
+
+gu16_transactions_count, gu17_transactions_count, gu18_transactions_count, gu19_transactions_count -> 구별, 계약건수
+
+year_count  -> 연도별 계약건수.
+
+
+gudong16_df_agg2, gudong17_df_agg2, gudong18_df_agg2, gudong19_df_agg2 -> 기간, 구, 동 전용면적별, 계약건수. 
+
+
+result_구면적count.csv ->  4년치(16, 17, 18, 19년도) 구별 면적별 매매건수 현황 데이터.
+
+
+
+df16, df17, df18, df19 -> 년도별 구별 아파트 매매건수 현황.
+
+
+
+
+
+
+
+
